@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jovan\\source\\repos\\Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{502EADC2-8811-47DE-A902-4C106FBE867F}|Projeto\\Projeto.csproj|c:\\users\\jovan\\source\\repos\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502EADC2-8811-47DE-A902-4C106FBE867F}|Projeto\\Projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502EADC2-8811-47DE-A902-4C106FBE867F}|Projeto\\Projeto.csproj|C:\\Users\\jovan\\source\\repos\\Projeto\\projeto\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502EADC2-8811-47DE-A902-4C106FBE867F}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502EADC2-8811-47DE-A902-4C106FBE867F}|Projeto\\Projeto.csproj|C:\\Users\\jovan\\source\\repos\\Projeto\\projeto\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502EADC2-8811-47DE-A902-4C106FBE867F}|Projeto\\Projeto.csproj|solutionrelative:projeto\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\source\\repos\\Projeto\\Projeto\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto\\Program.cs",
+              "ToolTip": "C:\\Users\\jovan\\source\\repos\\Projeto\\Projeto\\Program.cs",
+              "RelativeToolTip": "Projeto\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:10:28.672Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\source\\repos\\Projeto\\Projeto\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Projeto\\Cachorro.cs",
+              "ToolTip": "C:\\Users\\jovan\\source\\repos\\Projeto\\Projeto\\Cachorro.cs",
+              "RelativeToolTip": "Projeto\\Cachorro.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:50:37.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\source\\repos\\Projeto\\Projeto\\Curso.cs",
+              "RelativeDocumentMoniker": "Projeto\\Curso.cs",
+              "ToolTip": "C:\\Users\\jovan\\source\\repos\\Projeto\\Projeto\\Curso.cs",
+              "RelativeToolTip": "Projeto\\Curso.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:48:39.156Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
